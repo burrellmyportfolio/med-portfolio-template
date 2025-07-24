@@ -1,0 +1,1 @@
+Sample content for journal_club_notes.md

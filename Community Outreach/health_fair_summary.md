@@ -1,0 +1,1 @@
+Sample content for health_fair_summary.md
